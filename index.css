@@ -1,0 +1,40 @@
+body{
+    background: url(./images/bg2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    text-align:center;
+    font-family: 'Playfair Display', serif;
+}
+
+#login{
+    font-family: 'Roboto', sans-serif;
+    color:white
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 500px;
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+}
+
+#header-background{
+    background-color:white;
+}
+
+#main{
+    font-family: 'Roboto', sans-serif;
+    color:white
+}
+
+table{
+    background: white;
+    opacity: 0.75;
+    margin: 0 auto;
+}
